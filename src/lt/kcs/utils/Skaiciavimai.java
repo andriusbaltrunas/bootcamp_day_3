@@ -10,6 +10,7 @@ public class Skaiciavimai {
         if (numb < 0) {
             val = true;
         }
+        System.out.println(val);
         return val;
     }
 
